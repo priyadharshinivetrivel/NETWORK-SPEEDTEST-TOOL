@@ -164,3 +164,6 @@ Does not require a GUI (Tkinter), making it Colab-friendly.
 
 Speed test results may vary due to network fluctuations.
 
+![Image](https://github.com/user-attachments/assets/e8721334-748a-4df4-9e95-dd3d9af4dfa7)
+
+![Image](https://github.com/user-attachments/assets/0b28e660-b45b-44d0-8471-082a5669404f)
